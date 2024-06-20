@@ -1,0 +1,11 @@
+name,text
+NLP_CHEST_002,['chest pa view shows : > no obvious lung mass nor consolidation patch. > normal heart size']
+NLP_CHEST_004,['chest ap view : impression : - susp. rt pneumothorax.']
+NLP_CHEST_011,['chest pa view : impression : - suspect pulmonary hypertension. - increased bilateral lung']
+NLP_CHEST_015,['chest pa view shows : > no obvious lung mass nor consolidation patch. > normal heart size']
+NLP_CHEST_027,"['chest plain film shows : impression : - s / p lul lobectomy, rul']"
+NLP_CHEST_031,['chest pa view : impression : - increased both lung markings. - compatible with right lung nod']
+NLP_CHEST_057,['chest plain film view showed : impression : - suspicious right upper lung nodule. - increased in']
+NLP_CHEST_059,['chest pa view shows : > no obvious lung mass nor consolidation patch. > normal heart size']
+NLP_CHEST_071,['chest plain film shows : impression : - suspicious right upper lung patch. - normal heart size.']
+NLP_CHEST_085,['chest plain film view showed : impression : - increased infiltrations in both lungs. -']
